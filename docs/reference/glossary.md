@@ -2,19 +2,13 @@
 title: Glossary
 ---
 
-<head>
-  <title>API Glossary: Terminology and Definitions | Ionic Framework</title>
-  <meta
-    name="description"
-    content="Ionic is the platform for web developers. View our API Glossary for app-building terminology and keyword definitions to better understand Ionic's capabilities."
-  />
-</head>
+* goal
+  * API Glossary == Terminology + Definitions
 
-<div id="what-is">
-
+* TODO:
 <section id="a11y">
   <a href="#a11y">
-    <h3>Accessibility</h3>
+    # Accessibility</h3>
   </a>
   <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility" target="_blank">Accessibility</a> (a11y) is the practice of enabling as many people as possible to use the content, even if people have limited abilities. This include people with disabilities, those using mobile devices, and those with slow network connections. Content should be developed to be as accessible as technology allows.
@@ -23,7 +17,7 @@ title: Glossary
 
 <section id="android-sdk">
   <a href="#android-sdk">
-    <h3>Android SDK</h3>
+    # Android SDK</h3>
   </a>
   <p>
     The <a href="http://developer.android.com/sdk/index.html" target="_blank">Android SDK</a> is a software development kit built for developers building for Google's Android Platform. It includes tools for building, testing, and debugging Android applications.
@@ -32,7 +26,7 @@ title: Glossary
 
 <section id="android-studio">
   <a href="#android-studio">
-    <h3>Android Studio</h3>
+    # Android Studio</h3>
   </a>
   <p>
     <a href="https://developer.android.com/studio/" target="_blank">Android Studio</a> is the official
@@ -42,7 +36,7 @@ title: Glossary
 
 <section id="autoprefixer">
   <a href="#autoprefixer">
-    <h3>Autoprefixer</h3>
+    # Autoprefixer</h3>
   </a>
   <p>
     <a href="https://github.com/postcss/autoprefixer" target="_blank">Autoprefixer</a> is a tool that adds
@@ -55,7 +49,7 @@ title: Glossary
 
 <section id="bundling">
   <a href="#bundling">
-    <h3>Bundling</h3>
+    # Bundling</h3>
   </a>
   <p>
     Bundling is the process of taking an app's dependencies (code you've written plus any npm modules installed) and
@@ -65,7 +59,7 @@ title: Glossary
 
 <section id="capacitor">
   <a href="#capacitor">
-    <h3>Capacitor</h3>
+    # Capacitor</h3>
   </a>
   <p>
     <a href="https://capacitorjs.com/" target="_blank">Capacitor</a> is an open source cross-platform app runtime
@@ -79,7 +73,7 @@ title: Glossary
 
 <section id="cli">
   <a href="#cli">
-    <h3>CLI</h3>
+    # CLI</h3>
   </a>
   <p>
     A CLI, or <strong>C</strong>ommand-<strong>L</strong>ine <strong>I</strong>nterface, is a text-based interface for
@@ -95,7 +89,7 @@ title: Glossary
 
 <section id="commonjs">
   <a href="#commonjs">
-    <h3>CommonJS</h3>
+    # CommonJS</h3>
   </a>
   <p>
     <a href="https://webpack.github.io/docs/commonjs.html" target="_blank">CommonJS</a> is a group that defines
@@ -105,7 +99,7 @@ title: Glossary
 
 <section id="cordova">
   <a href="#cordova">
-    <h3>Cordova</h3>
+    # Cordova</h3>
   </a>
   <p>
     <a href="https://cordova.apache.org" target="_blank">Apache Cordova</a> is an open source mobile application
@@ -117,7 +111,7 @@ title: Glossary
 
 <section id="cors">
   <a href="#cors">
-    <h3>CORS</h3>
+    # CORS</h3>
   </a>
   <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS" target="_blank">CORS</a>
@@ -128,7 +122,7 @@ title: Glossary
 
 <section id="css-variables">
   <a href="#css-variables">
-    <h3>CSS Variables</h3>
+    # CSS Variables</h3>
   </a>
   <p>
     You may be familiar with variables from Sass.
@@ -139,7 +133,7 @@ title: Glossary
 
 <section id="decorators">
   <a href="#decorators">
-    <h3>Decorators</h3>
+    # Decorators</h3>
   </a>
   <p>
     Decorators are expressions that return a function. They allow you to take an existing function, and extend its
@@ -154,7 +148,7 @@ title: Glossary
 
 <section id="es5">
   <a href="#es5">
-    <h3>ES5</h3>
+    # ES5</h3>
   </a>
   <p>
     ES5 refers to EcmaScript 5th Edition. A simple way to put it is that ES5 is the version of JavaScript which
@@ -164,7 +158,7 @@ title: Glossary
 
 <section id="es2015-es6">
   <a href="#es2015-es6">
-    <h3>ES2015/ES6</h3>
+    # ES2015/ES6</h3>
   </a>
   <p>
     A wide range of new features were introduced in this version of JavaScript, including classes, modules, iterators,
@@ -176,7 +170,7 @@ title: Glossary
 
 <section id="es2016-es7">
   <a href="#es2016-es7">
-    <h3>ES2016/ES7</h3>
+    # ES2016/ES7</h3>
   </a>
   <p>
     This version of JavaScript added a number of new features to the language, including <code>Array.includes</code> and
@@ -187,7 +181,7 @@ title: Glossary
 
 <section id="es2017-es8">
   <a href="#es2017-es8">
-    <h3>ES2017/ES8</h3>
+    # ES2017/ES8</h3>
   </a>
   <p>
     This version of JavaScript is the latest standard. It is currently in the final stage before becoming the new
@@ -197,7 +191,7 @@ title: Glossary
 
 <section id="genymotion">
   <a href="#genymotion">
-    <h3>Genymotion</h3>
+    # Genymotion</h3>
   </a>
   <p>
     Genymotion is a third-party Android emulator. It is extremely fast, and is useful for quickly testing your app on
@@ -208,7 +202,7 @@ title: Glossary
 
 <section id="git">
   <a href="#git">
-    <h3>Git</h3>
+    # Git</h3>
   </a>
   <p>
     <a href="https://git-scm.com/" target="_blank">Git</a> is a distributed version control system for managing code.
@@ -218,7 +212,7 @@ title: Glossary
 
 <section id="gulp">
   <a href="#gulp">
-    <h3>Gulp</h3>
+    # Gulp</h3>
   </a>
   <p>
     <a href="http://gulpjs.com/" target="_blank">Gulp</a> is a tool for running tasks which can be used to build your app.
@@ -229,7 +223,7 @@ title: Glossary
 
 <section id="es-modules">
   <a href="#es-modules">
-    <h3>ES Modules</h3>
+    # ES Modules</h3>
   </a>
   <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import" target="_blank">ES Modules</a>
@@ -241,7 +235,7 @@ title: Glossary
 
 <section id="ionicons">
   <a href="#ionicons">
-    <h3>Ionicons</h3>
+    # Ionicons</h3>
   </a>
   <p>
     <a href="https://ionic.io/ionicons/" target="_blank">Ionicons</a> is an open-source icon set used and created
@@ -252,7 +246,7 @@ title: Glossary
 
 <section id="karma">
   <a href="#karma">
-    <h3>Karma</h3>
+    # Karma</h3>
   </a>
   <p>
     <a href="https://karma-runner.github.io/latest/index.html" target="_blank">Karma</a> is a test runner that
@@ -263,7 +257,7 @@ title: Glossary
 
 <section id="module">
   <a href="#module">
-    <h3>Module</h3>
+    # Module</h3>
   </a>
   <p>
     Modules in JavaScript are small, independent, and reusable pieces or code that are isolated from one another and the
@@ -273,7 +267,7 @@ title: Glossary
 
 <section id="monorepo">
   <a href="#monorepo">
-    <h3>Monorepo</h3>
+    # Monorepo</h3>
   </a>
   <p>
     A <strong>monorepo</strong> is a single git repository with multiple projects. Advantages include simpler
@@ -283,7 +277,7 @@ title: Glossary
 
 <section id="livereload">
   <a href="#livereload">
-    <h3>Live Reload</h3>
+    # Live Reload</h3>
   </a>
   <p>
     <strong>Live Reload</strong> (or <strong>live-reload</strong>) is a tool that automatically reloads the browser or
@@ -295,7 +289,7 @@ title: Glossary
 
 <section id="node">
   <a href="#node">
-    <h3>Node</h3>
+    # Node</h3>
   </a>
   <p>
     <a href="https://nodejs.org/" target="_blank">Node</a> is a runtime environment that allows JavaScript to be
@@ -306,7 +300,7 @@ title: Glossary
 
 <section id="npm">
   <a href="#npm">
-    <h3>npm</h3>
+    # npm</h3>
   </a>
   <p>
     <a href="https://www.npmjs.com/" target="_blank">npm</a> is the package manager for <a href="#node">node</a>.
@@ -317,7 +311,7 @@ title: Glossary
 
 <section id="observable">
   <a href="#observable">
-    <h3>Observable</h3>
+    # Observable</h3>
   </a>
   <p>
     An observable is an object that emits events (or notifications). An observer is an object that listens for these
@@ -328,7 +322,7 @@ title: Glossary
 
 <section id="package-id">
   <a href="#package-id">
-    <h3>Package ID</h3>
+    # Package ID</h3>
   </a>
   <p>
     Referred to by Apple as <strong>Bundle ID</strong> and by Android as <strong>Application ID</strong>, the
@@ -339,7 +333,7 @@ title: Glossary
 
 <section id="polyfill">
   <a href="#polyfill">
-    <h3>Polyfill</h3>
+    # Polyfill</h3>
   </a>
   <p>
     A <a href="https://remysharp.com/2010/10/08/what-is-a-polyfill" target="_blank">polyfill</a> is a bit of code that
@@ -350,7 +344,7 @@ title: Glossary
 
 <section id="protractor">
   <a href="#protractor">
-    <h3>Protractor</h3>
+    # Protractor</h3>
   </a>
   <p>
     <a href="https://angular.github.io/protractor/#/" target="_blank">Protractor</a> is a testing framework written for
@@ -361,7 +355,7 @@ title: Glossary
 
 <section id="sass">
   <a href="#sass">
-    <h3>Sass</h3>
+    # Sass</h3>
   </a>
   <p>
     Sass is a stylesheet language that compiles to CSS and is used by Ionic. Sass is like CSS, but with extra features
@@ -373,7 +367,7 @@ title: Glossary
 
 <section id="scoped">
   <a href="#scoped">
-    <h3>Scoped Encapsulation</h3>
+    # Scoped Encapsulation</h3>
   </a>
   <p>
     A component that uses scoped encapsulation will automatically scope its CSS by appending each of the styles with a
@@ -386,7 +380,7 @@ title: Glossary
 
 <section id="shadow">
   <a href="#shadow">
-    <h3>Shadow DOM</h3>
+    # Shadow DOM</h3>
   </a>
   <p>
     <a href="https://developers.google.com/web/fundamentals/web-components/shadowdom" target="_blank">Shadow DOM</a>
@@ -399,7 +393,7 @@ title: Glossary
 
 <section id="shim">
   <a href="#shim">
-    <h3>Shim</h3>
+    # Shim</h3>
   </a>
   <p>
     A shim is a piece of code that normalizes an APIs across browsers. A shim can have it's own API that hides the
@@ -409,7 +403,7 @@ title: Glossary
 
 <section id="transpiler">
   <a href="#transpiler">
-    <h3>Transpiler</h3>
+    # Transpiler</h3>
   </a>
   <p>
     Transpilation is the process of converting code from one language to another language prior to execution. Typically,
@@ -421,7 +415,7 @@ title: Glossary
 
 <section id="typescript">
   <a href="#typescript">
-    <h3>TypeScript</h3>
+    # TypeScript</h3>
   </a>
   <p>
     <a href="http://www.typescriptlang.org" target="_blank">TypeScript</a> is a superset of JavaScript,
@@ -434,7 +428,7 @@ title: Glossary
 
 <section id="unit-tests">
   <a href="#unit-tests">
-    <h3>Unit Tests</h3>
+    # Unit Tests</h3>
   </a>
   <p>
     Unit Tests and unit testing are a way to test small pieces of code to see if they behave as expected. Unit testing
@@ -444,7 +438,7 @@ title: Glossary
 
 <section id="webpack">
   <a href="#webpack">
-    <h3>Webpack</h3>
+    # Webpack</h3>
   </a>
   <p>
     <a href="https://webpack.github.io/" target="_blank">Webpack</a> bundles together JavaScript modules and other assets.
@@ -453,27 +447,14 @@ title: Glossary
   </p>
 </section>
 
-<section id="web-standards">
-  <a href="#web-standards">
-    <h3>Web Standards</h3>
-  </a>
-  <p>
-    The <a href="https://www.w3.org/" target="_blank">World Wide Web Consortium</a> (W3C) is the standards organization
-    for the Web. Together, industry leaders and the public work together to develop
-    <a href="https://www.w3.org/standards/" target="_blank">web standards</a>, which are a set of protocols, specifications,
-    and technologies that define the Web Platform.
-  </p>
-</section>
+# Web Standards
+* [World Wide Web Consortium (W3C)](https://www.w3.org/)
+  * == Web standards organization == industry leaders + public work
+  * 's goal
+    * develop [web standards](https://www.w3.org/standards/)
+      * == protocols + specifications + technologies / define the Web Platform
 
-<section id="xcode">
-  <a href="#xcode">
-    <h3>Xcode</h3>
-  </a>
-  <p>
-    <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a> is an Apple IDE (integrated development
+# Xcode
+* <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a> is an Apple IDE (integrated development
     environment) for software development on Apple operating systems (macOS, iOS, watchOS and tvOS), with extensions
     available for other languages and platforms.
-  </p>
-</section>
-
-</div>
